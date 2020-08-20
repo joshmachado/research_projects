@@ -3,9 +3,12 @@ layout: page
 title: Presentations
 ---
 
-<%p class="message">
+<!----
+<p class="message">
   Presentations
-<%/p>
+</p>
+---->
+
 
 Below are a list of my presentations and talks. Slides are linked where applicable & available.
 
